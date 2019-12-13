@@ -3,7 +3,18 @@ This is a educational notebook about what is quantum circuit optimization and ho
 https://ibmqawards.com
 
 `Highly recommended to go through this resource at colab`
-## Index
+
+
+## Introduction
+Currently Quantum computer has a lots of noise inside and circuit optimization is a effort to reduce the noise as small as possible. This is the part of one step to Fault-tolerance Quantum computer. At this notebook we are going to explain the circuit optimization in details and a way to optimize the circuit using deep learning method.
+
+## Why deep learning?
+Currently quantum circuit optimization is done by qiskit transpiler. It is using graph data structure and using A* search to find the optimized the layout and a way to swap qubits. There is few approach using deep learning model. The give a guide line for Deep learning workers to encourage the participate to the circuit optimization using deep learning and to check possibility of the deep learning to quantum circuit optimization and further more we made a education notebook using deep learning.
+
+## Where to start?
+Follow this link to start :D The guide notebook includes following index!
+[Guide of this project](https://colab.research.google.com/drive/1PRtKv2vY2yKl4pDYQ9M2kcpkQ0lvdJnM)
+#### Index
 0. Welcome :D
 1. What is circuit optimization?
 2. [How does optimized circuit looks like depends on hardware?](https://colab.research.google.com/drive/150ZR9zoIf8XBFpLM9IXAr6rhkSOcScpU)
@@ -14,16 +25,6 @@ https://ibmqawards.com
 7. [Train Layout predicting Model](https://colab.research.google.com/drive/1EeWubYnIIkIdkq-5XNMZ68WXw9i1SMIc)
 8. [Train Optimized circuit generating model](https://colab.research.google.com/drive/1--9oFkHl7efT0fI9s1JkrBE1uwczt3YU)
 9. Future work
-
-## Introduction
-Currently Quantum computer has a lots of noise inside and circuit optimization is a effort to reduce the noise as small as possible. This is the part of one step to Fault-tolerance Quantum computer. At this notebook we are going to explain the circuit optimization in details and a way to optimize the circuit using deep learning method.
-
-## Why deep learning?
-Currently quantum circuit optimization is done by qiskit transpiler. It is using graph data structure and using A* search to find the optimized the layout and a way to swap qubits. There is few approach using deep learning model. Deep learning approach was used to check the possibility of the deep learning to quantum circuit optimization and further more.
-
-## Where to start?
-Follow this link to start :D
-[Guide of this project](https://colab.research.google.com/drive/1PRtKv2vY2yKl4pDYQ9M2kcpkQ0lvdJnM)
 
 ## What Deep learning model it is using?
 1. LSTM Autoencoder - `Find circuit manifold`
