@@ -30,7 +30,7 @@ Currently quantum circuit optimization is done by qiskit transpiler. It is using
 We are trying to give a guide line for Deep learning practitioners or quantum computer practitioners to encourage the participate to the circuit optimization using deep learning and to check possibility of the deep learning to quantum circuit optimization and further more. This is why we made a education notebook using deep learning.
 
 ## Where to start?
-Follow this link to start :D The guide notebook includes following index!
+Click the guide link to start :D The guide notebook includes all of the informations you need! You can search one by one using the below.
 
 [Guide of this project](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Quantum_circuit_optimization_with_Deep_learning.ipynb)
 
@@ -57,7 +57,7 @@ Follow this link to start :D The guide notebook includes following index!
 
 A. Future work
 
-## What Deep learning model it is using?
+## What Deep learning model is used?
 1. LSTM Autoencoder - `Find circuit latent space(manifold)`
 2. LSTM Encoder DNN - `Predict the layout`
 3. LSTM seq2seq - `Generate Optimized quantum circuit`
