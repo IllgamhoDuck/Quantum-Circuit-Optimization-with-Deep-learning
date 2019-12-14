@@ -34,7 +34,11 @@ Follow this link to start :D The guide notebook includes following index!
 4. [How to generate random circuit?](https://colab.research.google.com/drive/1AD5sX89YILQTAsL8Go2IOYXSFx_hEIaS)
 5. [Generate dataset for Deep learning](https://colab.research.google.com/drive/1n_zwBDY8UyXgpQedz8sHVXAjgYcGwN91)
 6. [Train LSTM Autoencoder to find circuit manifold](https://colab.research.google.com/drive/1jcYs0p-XZCoSlnf2j8nwzYeiRKL-aBpJ)
+
+
 6-1. [estimating statevectors from circuits](https://colab.research.google.com/github/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/estimating_statevectors_from_circuits.ipynb#scrollTo=3C-DO9zfCWm1)
+
+
 7. [Train Layout predicting Model](https://colab.research.google.com/drive/1EeWubYnIIkIdkq-5XNMZ68WXw9i1SMIc)
 8. [Train Optimized circuit generating model](https://colab.research.google.com/drive/1--9oFkHl7efT0fI9s1JkrBE1uwczt3YU)
 9. How to check it is optimized?
