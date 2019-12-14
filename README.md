@@ -35,8 +35,8 @@ Follow this link to start :D The guide notebook includes following index!
 `Highly recommended to go through this resource at colab`
 
 #### Index
-0. Welcome :D
-1. What is circuit optimization?
+0. [Welcome :D](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Quantum_circuit_optimization_with_Deep_learning.ipynb)
+1. [What is circuit optimization?](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Quantum_circuit_optimization_with_Deep_learning.ipynb)
 2. [How does optimized circuit looks like depends on hardware?](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Check_how_circuit_optimized_depends_on_quantum_backend.ipynb)
 3. [Check quantum hardware information](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/hardware_information.ipynb)
 4. [How to generate random circuit?](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Random_quantum_circuit_Generator.ipynb)
@@ -51,12 +51,12 @@ Follow this link to start :D The guide notebook includes following index!
 
 7. [Train Layout predicting Model](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/layout_prediction.ipynb)
 8. [Train Optimized circuit generating model](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Optimized_circuit_generator.ipynbU)
-9. How to check it is optimized?
+9. [How to check it is optimized?](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Quantum_circuit_optimization_with_Deep_learning.ipynb)
 
 A. Future work
 
 ## What Deep learning model it is using?
-1. LSTM Autoencoder - `Find circuit manifold`
+1. LSTM Autoencoder - `Find circuit latent space(manifold)`
 2. LSTM Encoder DNN - `Predict the layout`
 3. LSTM seq2seq - `Generate Optimized quantum circuit`
 4. DNN - (Optional) `Predicting the statevector from circuit`
