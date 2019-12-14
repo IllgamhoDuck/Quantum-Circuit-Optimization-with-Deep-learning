@@ -43,7 +43,8 @@ Follow this link to start :D The guide notebook includes following index!
 
 
 6-1. [(Optional) estimating statevectors from circuits](https://colab.research.google.com/github/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/predicting_statevectors_from_circuits.ipynb)
-
+`Check more about the experiment results of this statevector predicting model`
+[experiment log](https://docs.google.com/spreadsheets/d/1LPAHmYtP5d9_qKSbEQmxlSk6NTAQU2ytRe82e3c6dVQ/edit)
 
 7. [Train Layout predicting Model](https://colab.research.google.com/drive/1EeWubYnIIkIdkq-5XNMZ68WXw9i1SMIc)
 8. [Train Optimized circuit generating model](https://colab.research.google.com/drive/1--9oFkHl7efT0fI9s1JkrBE1uwczt3YU)
