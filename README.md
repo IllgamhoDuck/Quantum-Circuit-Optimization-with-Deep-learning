@@ -2,8 +2,15 @@
 This is a educational notebook about what is quantum circuit optimization and how to optimize the circuit using deep learning approach created for IBM Q Challenge teach me qiskit award
 https://ibmqawards.com
 
-`Highly recommended to go through this resource at colab`
+Recommend reading following chapter at qiskit textbook before you start. 
+[QISKIT TESTBOOK](https://community.qiskit.org/textbook/preface.html)
 
+```
+chapter 0. Prerequisites
+chapter 1. Quantum States and Qubits 
+chapter 2. Single Qubits and Multiple-Qubits gates
+```
+But if you don't want to go through it and just want to directly work on this you can go through directly! Every notebook is created to be possible to implement without prior knowledge of deep learning and quantum computing. But make sure you modify the path appropriatly :D
 
 ## Introduction
 Currently Quantum computer has a lots of noise inside and circuit optimization is a effort to reduce the noise as small as possible. This is the part of one step to Fault-tolerance Quantum computer. At this notebook we are going to explain the circuit optimization in details and a way to optimize the circuit using deep learning method.
@@ -13,7 +20,7 @@ Currently quantum circuit optimization is done by qiskit transpiler. It is using
 
 ## Where to start?
 Follow this link to start :D The guide notebook includes following index!
-
+`Highly recommended to go through this resource at colab`
 [Guide of this project](https://colab.research.google.com/drive/1PRtKv2vY2yKl4pDYQ9M2kcpkQ0lvdJnM)
 #### Index
 0. Welcome :D
@@ -23,6 +30,7 @@ Follow this link to start :D The guide notebook includes following index!
 4. [How to generate random circuit?](https://colab.research.google.com/drive/1AD5sX89YILQTAsL8Go2IOYXSFx_hEIaS)
 5. [Generate dataset for Deep learning](https://colab.research.google.com/drive/1n_zwBDY8UyXgpQedz8sHVXAjgYcGwN91)
 6. [Train LSTM Autoencoder to find circuit manifold](https://colab.research.google.com/drive/1jcYs0p-XZCoSlnf2j8nwzYeiRKL-aBpJ)
+6-1. [estimating statevectors from circuits](https://colab.research.google.com/github/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/estimating_statevectors_from_circuits.ipynb#scrollTo=3C-DO9zfCWm1)
 7. [Train Layout predicting Model](https://colab.research.google.com/drive/1EeWubYnIIkIdkq-5XNMZ68WXw9i1SMIc)
 8. [Train Optimized circuit generating model](https://colab.research.google.com/drive/1--9oFkHl7efT0fI9s1JkrBE1uwczt3YU)
 9. How to check it is optimized?
