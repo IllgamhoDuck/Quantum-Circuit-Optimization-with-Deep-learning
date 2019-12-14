@@ -3,6 +3,7 @@ This is a educational notebook about what is quantum circuit optimization and ho
 https://ibmqawards.com
 
 Recommend reading following chapter at qiskit textbook before you start. 
+
 [QISKIT TESTBOOK](https://community.qiskit.org/textbook/preface.html)
 
 ```
@@ -20,8 +21,11 @@ Currently quantum circuit optimization is done by qiskit transpiler. It is using
 
 ## Where to start?
 Follow this link to start :D The guide notebook includes following index!
-`Highly recommended to go through this resource at colab`
+
 [Guide of this project](https://colab.research.google.com/drive/1PRtKv2vY2yKl4pDYQ9M2kcpkQ0lvdJnM)
+
+`Highly recommended to go through this resource at colab`
+
 #### Index
 0. Welcome :D
 1. What is circuit optimization?
