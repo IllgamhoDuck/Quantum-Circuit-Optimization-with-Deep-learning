@@ -36,7 +36,7 @@ Follow this link to start :D The guide notebook includes following index!
 6. [Train LSTM Autoencoder to find circuit manifold](https://colab.research.google.com/drive/1jcYs0p-XZCoSlnf2j8nwzYeiRKL-aBpJ)
 
 
-6-1. [estimating statevectors from circuits](https://colab.research.google.com/github/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/estimating_statevectors_from_circuits.ipynb#scrollTo=3C-DO9zfCWm1)
+6-1. [(Optional) estimating statevectors from circuits](https://colab.research.google.com/github/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/estimating_statevectors_from_circuits.ipynb#scrollTo=3C-DO9zfCWm1)
 
 
 7. [Train Layout predicting Model](https://colab.research.google.com/drive/1EeWubYnIIkIdkq-5XNMZ68WXw9i1SMIc)
