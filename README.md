@@ -23,7 +23,7 @@ Currently Quantum computer has a lots of noise inside and circuit optimization i
 Optimize circuits to minimize noise when they are executed on a real IBMQ backend, by using the properties of the backends themselves. These properties contain information about the physics of the device, such as qubit lifetimes (decoherence and relaxation), gate and readout error rates, and gate latencies.
 
 ## Why deep learning?
-Currently quantum circuit optimization is done by qiskit transpiler. It is using graph data structure and using A* search to find the optimized the layout and a way to swap qubits. There is few approach using deep learning model.
+Currently quantum circuit optimization is done by qiskit transpiler. It is using graph data structure and using A* search to find the optimized layout and a way to swap qubits. There is few approach using deep learning model.
 
 We are trying to give a guide line for Deep learning practitioners or quantum computer practitioners to encourage the participate to the circuit optimization using deep learning and to check possibility of the deep learning to quantum circuit optimization and further more. This is why we made a education notebook using deep learning.
 
