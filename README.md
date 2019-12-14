@@ -23,32 +23,34 @@ Currently Quantum computer has a lots of noise inside and circuit optimization i
 Optimize circuits to minimize noise when they are executed on a real IBMQ backend, by using the properties of the backends themselves. These properties contain information about the physics of the device, such as qubit lifetimes (decoherence and relaxation), gate and readout error rates, and gate latencies.
 
 ## Why deep learning?
-Currently quantum circuit optimization is done by qiskit transpiler. It is using graph data structure and using A* search to find the optimized the layout and a way to swap qubits. There is few approach using deep learning model. The give a guide line for Deep learning workers to encourage the participate to the circuit optimization using deep learning and to check possibility of the deep learning to quantum circuit optimization and further more we made a education notebook using deep learning.
+Currently quantum circuit optimization is done by qiskit transpiler. It is using graph data structure and using A* search to find the optimized the layout and a way to swap qubits. There is few approach using deep learning model.
+
+We are trying to give a guide line for Deep learning practitioners or quantum computer practitioners to encourage the participate to the circuit optimization using deep learning and to check possibility of the deep learning to quantum circuit optimization and further more. This is why we made a education notebook using deep learning.
 
 ## Where to start?
 Follow this link to start :D The guide notebook includes following index!
 
-[Guide of this project](https://colab.research.google.com/drive/1PRtKv2vY2yKl4pDYQ9M2kcpkQ0lvdJnM)
+[Guide of this project](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Quantum_circuit_optimization_with_Deep_learning.ipynb)
 
 `Highly recommended to go through this resource at colab`
 
 #### Index
 0. Welcome :D
 1. What is circuit optimization?
-2. [How does optimized circuit looks like depends on hardware?](https://colab.research.google.com/drive/150ZR9zoIf8XBFpLM9IXAr6rhkSOcScpU)
-3. [Check quantum hardware information](https://colab.research.google.com/drive/1m-bRNeopa6mToCv01wy3_LyjQTYZ6Nap)
-4. [How to generate random circuit?](https://colab.research.google.com/drive/1AD5sX89YILQTAsL8Go2IOYXSFx_hEIaS)
-5. [Generate dataset for Deep learning](https://colab.research.google.com/drive/1n_zwBDY8UyXgpQedz8sHVXAjgYcGwN91)
-6. [Train LSTM Autoencoder to find circuit manifold](https://colab.research.google.com/drive/1jcYs0p-XZCoSlnf2j8nwzYeiRKL-aBpJ)
+2. [How does optimized circuit looks like depends on hardware?](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Check_how_circuit_optimized_depends_on_quantum_backend.ipynb)
+3. [Check quantum hardware information](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/hardware_information.ipynb)
+4. [How to generate random circuit?](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Random_quantum_circuit_Generator.ipynb)
+5. [Generate dataset for Deep learning](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Generate_dataset.ipynb)
+6. [Train LSTM Autoencoder to find circuit manifold](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/LSTM_Autoencoder.ipynb)
 
 
-6-1. [(Optional) estimating statevectors from circuits](https://colab.research.google.com/github/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/predicting_statevectors_from_circuits.ipynb)
+6-1. [(Optional) Predicting statevectors from circuits](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/predicting_statevectors_from_circuits.ipynb)
 
 `Check more about the experiment results of this statevector predicting model`
 [experiment log](https://docs.google.com/spreadsheets/d/1LPAHmYtP5d9_qKSbEQmxlSk6NTAQU2ytRe82e3c6dVQ/edit)
 
-7. [Train Layout predicting Model](https://colab.research.google.com/drive/1EeWubYnIIkIdkq-5XNMZ68WXw9i1SMIc)
-8. [Train Optimized circuit generating model](https://colab.research.google.com/drive/1--9oFkHl7efT0fI9s1JkrBE1uwczt3YU)
+7. [Train Layout predicting Model](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/layout_prediction.ipynb)
+8. [Train Optimized circuit generating model](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Optimized_circuit_generator.ipynbU)
 9. How to check it is optimized?
 
 A. Future work
@@ -57,3 +59,4 @@ A. Future work
 1. LSTM Autoencoder - `Find circuit manifold`
 2. LSTM Encoder DNN - `Predict the layout`
 3. LSTM seq2seq - `Generate Optimized quantum circuit`
+4. DNN - (Optional) `Predicting the statevector from circuit`
