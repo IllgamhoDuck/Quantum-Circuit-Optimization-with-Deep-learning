@@ -1,7 +1,7 @@
 # Quantum-Circuit-Optimization-with-Deep-learning
 This is a educational notebook about what is quantum circuit optimization and how to optimize the circuit using deep learning approach created for IBM Q Challenge teach me qiskit award.
 
-![IBMQ](https://ibmqawards.com/wp-content/uploads/2019/09/IBM-Q-Header-white.png)
+![IBMQ](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/img/IBMQ.png?raw=true)
 
 https://ibmqawards.com
 
