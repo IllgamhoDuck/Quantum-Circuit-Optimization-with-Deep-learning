@@ -17,7 +17,7 @@ chapter 2. Single Qubits and Multiple-Qubits gates
 But if you don't want to go through it and just want to directly work on this you can go through directly! Every notebook is created to be possible to implement without prior knowledge of deep learning and quantum computing. But make sure you modify the path appropriatly :D
 
 ## Introduction
-Currently Quantum computer has a lots of noise inside and circuit optimization is a effort to reduce the noise as small as possible. This is the part of one step to Fault-tolerance Quantum computer. At this notebook we are going to explain the circuit optimization in details and a way to optimize the circuit using deep learning method.
+Currently Quantum computer has a lots of noise inside and circuit optimization is a effort to reduce the statevector error(difference from the ideal statevector) caused by noise as small as possible. This is the part of one step to Fault-tolerance Quantum computer. At this notebook we are going to explain the circuit optimization in details and a way to optimize the circuit using deep learning method.
 
 ## What is Quantum Circuit Optimization?
 `Below phrase is what IBM mentioned`
