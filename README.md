@@ -55,8 +55,6 @@ Click the guide link to start :D The guide notebook includes all of the informat
 8. [Train Optimized circuit generating model](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Optimized_circuit_generator.ipynbU)
 9. [How to check it is optimized?](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Quantum_circuit_optimization_with_Deep_learning.ipynb)
 
-A. Future work
-
 ## What Deep learning model is used?
 1. LSTM Autoencoder - `Find circuit latent space(manifold)`
 2. LSTM Encoder DNN - `Predict the layout`
