@@ -34,7 +34,7 @@ Click the guide link to start :D The guide notebook includes all of the informat
 
 [Guide of this project](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Quantum_circuit_optimization_with_Deep_learning.ipynb)
 
-`Highly recommended to go through this resource at colab`
+`Highly recommended to go through this resource at colab because it is designed to fit colab`
 
 #### Index
 0. [Welcome :D](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Quantum_circuit_optimization_with_Deep_learning.ipynb)
