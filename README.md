@@ -60,5 +60,5 @@ A. Future work
 ## What Deep learning model is used?
 1. LSTM Autoencoder - `Find circuit latent space(manifold)`
 2. LSTM Encoder DNN - `Predict the layout`
-3. LSTM seq2seq - `Generate Optimized quantum circuit`
+3. LSTM seq2seq - `Predict transpiler level 3 Optimized quantum circuit`
 4. DNN - (Optional) `Predicting the statevector from circuit`
