@@ -52,7 +52,7 @@ Click the guide link to start :D The guide notebook includes all of the informat
 [experiment log](https://docs.google.com/spreadsheets/d/1LPAHmYtP5d9_qKSbEQmxlSk6NTAQU2ytRe82e3c6dVQ/edit)
 
 7. [Train Layout predicting Model](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/layout_prediction.ipynb)
-8. [Train Optimized circuit generating model](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Optimized_circuit_generator.ipynbU)
+8. [Train Optimized circuit predicting model](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Optimized_circuit_generator.ipynb)
 9. [How to check it is optimized?](https://github.com/IllgamhoDuck/Quantum-Circuit-Optimization-with-Deep-learning/blob/master/Quantum_circuit_optimization_with_Deep_learning.ipynb)
 
 ## What Deep learning model is used?
